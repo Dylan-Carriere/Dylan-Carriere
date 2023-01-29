@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as an AWS Solution Architect
+- 🌱 I’m currently learning fullstack programming
+- 👯 I’m looking to collaborate on open sources projects
+- 📫 How to reach me: 
+  - Linkedin account: https://www.linkedin.com/in/dylan-carriere-a33636134/
+
 <!--
 **Dylan-Carriere/Dylan-Carriere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
